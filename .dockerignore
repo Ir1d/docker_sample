@@ -1,0 +1,11 @@
+**/.git
+**/.vscode
+**/gt
+**/result
+**/output
+**/tot
+**/data
+./eval_tools/evaluation2.m
+data_example/
+baselines_w/
+temp_files/
