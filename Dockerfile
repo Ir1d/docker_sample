@@ -61,6 +61,7 @@ RUN apt-get update && apt-get --no-install-recommends --yes install \
     transfig \
     unzip \
     xz-utils \
+    octave \
     zip \
   && apt-get clean \
   && rm -rf \
@@ -69,9 +70,9 @@ RUN apt-get update && apt-get --no-install-recommends --yes install \
     /var/lib/apt/lists/* \
     /var/log/apt/term*
 
-ADD https://s3.amazonaws.com/octave-snapshot/public/SHA256SUMS /
-RUN curl -SL https://s3.amazonaws.com/octave-snapshot/public/octave-ubuntu-trusty-snapshot.tar.xz \
-  | tar -xJC /usr/local --strip-components=1
+# ADD https://s3.amazonaws.com/octave-snapshot/public/SHA256SUMS /
+# RUN curl -SL https://s3.amazonaws.com/octave-snapshot/public/octave-ubuntu-trusty-snapshot.tar.xz \
+#   | tar -xJC /usr/local --strip-components=1
 
 # COPY --from=mtmiller/octave:latest /octave/ /octave/
 
