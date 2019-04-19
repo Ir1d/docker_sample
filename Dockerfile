@@ -77,6 +77,7 @@ RUN apt-get update && apt-get --no-install-recommends --yes install \
 # COPY --from=mtmiller/octave:latest /octave/ /octave/
 
 ADD ./eval_tools /tools
+ADD ./submission /submission
 VOLUME [ "/tools/data", "/tools/output", "/root/UG2/Sub_challenge2_1/output/0001/output/" ]
 
 WORKDIR /tools
