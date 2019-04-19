@@ -1,0 +1,81 @@
+<annotation>
+    <folder>keras-retinanet</folder>
+    <filename>HazeDr_Google_813.png</filename>
+    <path>/ssd2/yeyuan/dehaze/docker/keras-retinanet/HazeDr_Google_813.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>0</width>
+        <height>0</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.92269665</difficult>
+        <bndbox>
+            <xmin>752.2106</xmin>
+            <ymin>363.90796</ymin>
+            <xmax>865.2678</xmax>
+            <ymax>439.82257</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>truck</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.16195446</difficult>
+        <bndbox>
+            <xmin>753.6015</xmin>
+            <ymin>364.09537</ymin>
+            <xmax>863.57904</xmax>
+            <ymax>440.11273</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bed</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.07831633</difficult>
+        <bndbox>
+            <xmin>300.20193</xmin>
+            <ymin>393.91873</ymin>
+            <xmax>946.4516</xmax>
+            <ymax>575.23505</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.05485618</difficult>
+        <bndbox>
+            <xmin>793.41205</xmin>
+            <ymin>371.1777</ymin>
+            <xmax>927.29175</xmax>
+            <ymax>439.4148</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.050801247</difficult>
+        <bndbox>
+            <xmin>206.70523</xmin>
+            <ymin>269.5497</ymin>
+            <xmax>227.7196</xmax>
+            <ymax>331.9313</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.05070883</difficult>
+        <bndbox>
+            <xmin>753.6015</xmin>
+            <ymin>364.09537</ymin>
+            <xmax>863.57904</xmax>
+            <ymax>440.11273</ymax>
+        </bndbox>
+    </object>
+</annotation>

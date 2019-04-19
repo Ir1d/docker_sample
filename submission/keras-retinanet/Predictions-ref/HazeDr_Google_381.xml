@@ -1,0 +1,147 @@
+<annotation>
+    <folder>keras-retinanet</folder>
+    <filename>HazeDr_Google_381.png</filename>
+    <path>/ssd2/yeyuan/dehaze/docker/keras-retinanet/HazeDr_Google_381.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>0</width>
+        <height>0</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>traffic light</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.35398445</difficult>
+        <bndbox>
+            <xmin>87.85255</xmin>
+            <ymin>206.11024</ymin>
+            <xmax>105.96668</xmax>
+            <ymax>241.38992</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>traffic light</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.14565313</difficult>
+        <bndbox>
+            <xmin>213.47119</xmin>
+            <ymin>236.79997</ymin>
+            <xmax>238.70331</xmax>
+            <ymax>253.40178</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>traffic light</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.13588884</difficult>
+        <bndbox>
+            <xmin>93.16128</xmin>
+            <ymin>221.24341</ymin>
+            <xmax>106.60296</xmax>
+            <ymax>242.26694</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>traffic light</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.12278798</difficult>
+        <bndbox>
+            <xmin>156.96446</xmin>
+            <ymin>193.0739</ymin>
+            <xmax>169.7582</xmax>
+            <ymax>207.23013</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>traffic light</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.09744233</difficult>
+        <bndbox>
+            <xmin>83.92419</xmin>
+            <ymin>210.28067</ymin>
+            <xmax>112.408516</xmax>
+            <ymax>249.46681</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>traffic light</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.07391921</difficult>
+        <bndbox>
+            <xmin>215.07782</xmin>
+            <ymin>233.06541</ymin>
+            <xmax>245.41989</xmax>
+            <ymax>260.56854</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>traffic light</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.065983504</difficult>
+        <bndbox>
+            <xmin>321.387</xmin>
+            <ymin>213.31372</ymin>
+            <xmax>335.21805</xmax>
+            <ymax>225.85416</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>stop sign</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.0623174</difficult>
+        <bndbox>
+            <xmin>213.81567</xmin>
+            <ymin>236.6567</ymin>
+            <xmax>237.62991</xmax>
+            <ymax>252.85838</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>kite</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.060971737</difficult>
+        <bndbox>
+            <xmin>214.033</xmin>
+            <ymin>236.6041</ymin>
+            <xmax>237.94151</xmax>
+            <ymax>252.7918</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>traffic light</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.055665284</difficult>
+        <bndbox>
+            <xmin>87.18585</xmin>
+            <ymin>202.82408</ymin>
+            <xmax>99.266914</xmax>
+            <ymax>233.0349</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.055253893</difficult>
+        <bndbox>
+            <xmin>211.41333</xmin>
+            <ymin>233.8504</ymin>
+            <xmax>241.43265</xmax>
+            <ymax>258.25452</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>traffic light</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.05149287</difficult>
+        <bndbox>
+            <xmin>77.97501</xmin>
+            <ymin>203.40828</ymin>
+            <xmax>122.6595</xmax>
+            <ymax>254.79529</ymax>
+        </bndbox>
+    </object>
+</annotation>

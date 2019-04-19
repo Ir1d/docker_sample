@@ -1,0 +1,928 @@
+<annotation>
+    <folder>keras-retinanet</folder>
+    <filename>HazeDr_Google_740.png</filename>
+    <path>/ssd2/yeyuan/dehaze/docker/keras-retinanet/HazeDr_Google_740.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>0</width>
+        <height>0</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.97324204</difficult>
+        <bndbox>
+            <xmin>299.7694</xmin>
+            <ymin>173.06758</ymin>
+            <xmax>447.0788</xmax>
+            <ymax>368.8916</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.8734281</difficult>
+        <bndbox>
+            <xmin>649.60284</xmin>
+            <ymin>2.40408</ymin>
+            <xmax>785.01434</xmax>
+            <ymax>482.68625</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bench</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.36123085</difficult>
+        <bndbox>
+            <xmin>108.21127</xmin>
+            <ymin>348.5468</ymin>
+            <xmax>633.918</xmax>
+            <ymax>489.6863</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.35632434</difficult>
+        <bndbox>
+            <xmin>70.43788</xmin>
+            <ymin>340.16058</ymin>
+            <xmax>614.046</xmax>
+            <ymax>487.24286</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>cell phone</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.22897458</difficult>
+        <bndbox>
+            <xmin>634.34607</xmin>
+            <ymin>73.99578</ymin>
+            <xmax>663.3442</xmax>
+            <ymax>121.01137</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bench</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.15124568</difficult>
+        <bndbox>
+            <xmin>366.96338</xmin>
+            <ymin>333.89603</ymin>
+            <xmax>800.115</xmax>
+            <ymax>488.5178</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>surfboard</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.13679081</difficult>
+        <bndbox>
+            <xmin>73.54902</xmin>
+            <ymin>331.53366</ymin>
+            <xmax>623.29596</xmax>
+            <ymax>488.8616</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.13582286</difficult>
+        <bndbox>
+            <xmin>321.29092</xmin>
+            <ymin>171.51488</ymin>
+            <xmax>616.64514</xmax>
+            <ymax>399.64706</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.13471171</difficult>
+        <bndbox>
+            <xmin>133.3407</xmin>
+            <ymin>166.32185</ymin>
+            <xmax>191.64095</xmax>
+            <ymax>192.82632</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.12444559</difficult>
+        <bndbox>
+            <xmin>38.411777</xmin>
+            <ymin>159.97021</ymin>
+            <xmax>718.8978</xmax>
+            <ymax>469.9481</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bench</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.12434921</difficult>
+        <bndbox>
+            <xmin>245.2826</xmin>
+            <ymin>297.05777</ymin>
+            <xmax>679.5055</xmax>
+            <ymax>468.12228</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>handbag</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.12137297</difficult>
+        <bndbox>
+            <xmin>632.9059</xmin>
+            <ymin>72.4808</ymin>
+            <xmax>672.3951</xmax>
+            <ymax>185.3173</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.12097487</difficult>
+        <bndbox>
+            <xmin>603.02893</xmin>
+            <ymin>104.15343</ymin>
+            <xmax>626.81665</xmax>
+            <ymax>117.783394</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bench</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.11841005</difficult>
+        <bndbox>
+            <xmin>559.903</xmin>
+            <ymin>349.644</ymin>
+            <xmax>799.74445</xmax>
+            <ymax>487.35263</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bench</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.1181705</difficult>
+        <bndbox>
+            <xmin>311.7455</xmin>
+            <ymin>360.22824</ymin>
+            <xmax>645.39087</xmax>
+            <ymax>470.02725</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.11350256</difficult>
+        <bndbox>
+            <xmin>193.3078</xmin>
+            <ymin>156.40224</ymin>
+            <xmax>290.8509</xmax>
+            <ymax>191.67334</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.10933888</difficult>
+        <bndbox>
+            <xmin>190.97148</xmin>
+            <ymin>158.1796</ymin>
+            <xmax>234.73973</xmax>
+            <ymax>190.73758</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.10559198</difficult>
+        <bndbox>
+            <xmin>134.63701</xmin>
+            <ymin>156.41335</ymin>
+            <xmax>223.4226</xmax>
+            <ymax>192.49228</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.10122588</difficult>
+        <bndbox>
+            <xmin>206.8506</xmin>
+            <ymin>187.36644</ymin>
+            <xmax>614.2719</xmax>
+            <ymax>382.51688</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>backpack</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.10121131</difficult>
+        <bndbox>
+            <xmin>632.75244</xmin>
+            <ymin>69.3298</ymin>
+            <xmax>674.7112</xmax>
+            <ymax>192.2668</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bench</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.10022795</difficult>
+        <bndbox>
+            <xmin>234.22906</xmin>
+            <ymin>220.48752</ymin>
+            <xmax>638.92694</xmax>
+            <ymax>429.83197</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.099256575</difficult>
+        <bndbox>
+            <xmin>100.673294</xmin>
+            <ymin>161.45293</ymin>
+            <xmax>193.4821</xmax>
+            <ymax>194.85423</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>cell phone</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.0958496</difficult>
+        <bndbox>
+            <xmin>633.92224</xmin>
+            <ymin>73.90004</ymin>
+            <xmax>670.25464</xmax>
+            <ymax>161.50096</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.095458984</difficult>
+        <bndbox>
+            <xmin>332.47473</xmin>
+            <ymin>183.91077</ymin>
+            <xmax>498.40826</xmax>
+            <ymax>342.90582</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.09338805</difficult>
+        <bndbox>
+            <xmin>681.0649</xmin>
+            <ymin>261.20953</ymin>
+            <xmax>776.0342</xmax>
+            <ymax>476.85297</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>handbag</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.09233996</difficult>
+        <bndbox>
+            <xmin>631.9136</xmin>
+            <ymin>108.37921</ymin>
+            <xmax>659.2174</xmax>
+            <ymax>195.28157</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sports ball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.090797246</difficult>
+        <bndbox>
+            <xmin>400.17053</xmin>
+            <ymin>206.38295</ymin>
+            <xmax>419.85052</xmax>
+            <ymax>223.17783</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bench</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.09029505</difficult>
+        <bndbox>
+            <xmin>624.2257</xmin>
+            <ymin>210.48164</ymin>
+            <xmax>800.115</xmax>
+            <ymax>476.7271</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.08426973</difficult>
+        <bndbox>
+            <xmin>173.06766</xmin>
+            <ymin>159.04428</ymin>
+            <xmax>252.66136</xmax>
+            <ymax>194.57263</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tennis racket</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.083614826</difficult>
+        <bndbox>
+            <xmin>632.66986</xmin>
+            <ymin>71.709335</ymin>
+            <xmax>674.2678</xmax>
+            <ymax>176.35713</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bench</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.0808115</difficult>
+        <bndbox>
+            <xmin>309.42157</xmin>
+            <ymin>400.78232</ymin>
+            <xmax>613.5488</xmax>
+            <ymax>491.27118</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.07642174</difficult>
+        <bndbox>
+            <xmin>161.69598</xmin>
+            <ymin>166.92465</ymin>
+            <xmax>221.96106</xmax>
+            <ymax>193.86761</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.073323935</difficult>
+        <bndbox>
+            <xmin>224.944</xmin>
+            <ymin>163.80525</ymin>
+            <xmax>307.87704</xmax>
+            <ymax>192.05539</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>skateboard</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.07143092</difficult>
+        <bndbox>
+            <xmin>633.92224</xmin>
+            <ymin>73.90004</ymin>
+            <xmax>670.25464</xmax>
+            <ymax>161.50096</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>backpack</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.071074635</difficult>
+        <bndbox>
+            <xmin>631.9136</xmin>
+            <ymin>108.37921</ymin>
+            <xmax>659.2174</xmax>
+            <ymax>195.28157</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.07061863</difficult>
+        <bndbox>
+            <xmin>633.92224</xmin>
+            <ymin>73.90004</ymin>
+            <xmax>670.25464</xmax>
+            <ymax>161.50096</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.06985736</difficult>
+        <bndbox>
+            <xmin>166.6105</xmin>
+            <ymin>178.10223</ymin>
+            <xmax>782.9444</xmax>
+            <ymax>435.5818</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.06942502</difficult>
+        <bndbox>
+            <xmin>198.3931</xmin>
+            <ymin>35.11173</ymin>
+            <xmax>800.115</xmax>
+            <ymax>456.0477</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>handbag</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.06925586</difficult>
+        <bndbox>
+            <xmin>649.7785</xmin>
+            <ymin>223.49983</ymin>
+            <xmax>663.31616</xmax>
+            <ymax>267.2279</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bench</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.068466365</difficult>
+        <bndbox>
+            <xmin>331.89575</xmin>
+            <ymin>333.77005</ymin>
+            <xmax>643.3593</xmax>
+            <ymax>427.5553</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.06834632</difficult>
+        <bndbox>
+            <xmin>638.87744</xmin>
+            <ymin>9.883372</ymin>
+            <xmax>767.26105</xmax>
+            <ymax>183.87589</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>cell phone</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.067916274</difficult>
+        <bndbox>
+            <xmin>633.7494</xmin>
+            <ymin>71.06711</ymin>
+            <xmax>682.71466</xmax>
+            <ymax>128.88649</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.06789273</difficult>
+        <bndbox>
+            <xmin>109.39148</xmin>
+            <ymin>159.4807</ymin>
+            <xmax>130.93971</xmax>
+            <ymax>188.19017</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bench</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.06779346</difficult>
+        <bndbox>
+            <xmin>153.3892</xmin>
+            <ymin>235.85898</ymin>
+            <xmax>800.115</xmax>
+            <ymax>479.70575</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.06748858</difficult>
+        <bndbox>
+            <xmin>203.69914</xmin>
+            <ymin>166.94908</ymin>
+            <xmax>273.86893</xmax>
+            <ymax>192.97961</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>cell phone</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.06704602</difficult>
+        <bndbox>
+            <xmin>637.5894</xmin>
+            <ymin>77.42638</ymin>
+            <xmax>657.2085</xmax>
+            <ymax>110.58725</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.06566802</difficult>
+        <bndbox>
+            <xmin>190.10272</xmin>
+            <ymin>80.88733</ymin>
+            <xmax>232.98557</xmax>
+            <ymax>192.19429</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.06521687</difficult>
+        <bndbox>
+            <xmin>159.09303</xmin>
+            <ymin>156.93925</ymin>
+            <xmax>199.42097</xmax>
+            <ymax>192.45688</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>dining table</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.065008014</difficult>
+        <bndbox>
+            <xmin>274.7993</xmin>
+            <ymin>342.2795</ymin>
+            <xmax>745.5772</xmax>
+            <ymax>489.12848</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bench</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.06490582</difficult>
+        <bndbox>
+            <xmin>673.9001</xmin>
+            <ymin>318.03537</ymin>
+            <xmax>800.115</xmax>
+            <ymax>484.17038</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.064489126</difficult>
+        <bndbox>
+            <xmin>633.92224</xmin>
+            <ymin>73.90004</ymin>
+            <xmax>670.25464</xmax>
+            <ymax>161.50096</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.063391924</difficult>
+        <bndbox>
+            <xmin>100.640755</xmin>
+            <ymin>249.88954</ymin>
+            <xmax>555.66693</xmax>
+            <ymax>443.77567</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>backpack</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.06220433</difficult>
+        <bndbox>
+            <xmin>665.6312</xmin>
+            <ymin>15.241933</ymin>
+            <xmax>783.0704</xmax>
+            <ymax>377.23175</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.062067986</difficult>
+        <bndbox>
+            <xmin>119.30742</xmin>
+            <ymin>71.13623</ymin>
+            <xmax>616.30695</xmax>
+            <ymax>392.25583</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tennis racket</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.06169322</difficult>
+        <bndbox>
+            <xmin>635.22766</xmin>
+            <ymin>74.59905</ymin>
+            <xmax>662.99</xmax>
+            <ymax>125.697365</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bench</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.061237723</difficult>
+        <bndbox>
+            <xmin>732.08057</xmin>
+            <ymin>297.73782</ymin>
+            <xmax>796.36816</xmax>
+            <ymax>475.66226</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>frisbee</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.060397804</difficult>
+        <bndbox>
+            <xmin>400.17053</xmin>
+            <ymin>206.38295</ymin>
+            <xmax>419.85052</xmax>
+            <ymax>223.17783</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.060228527</difficult>
+        <bndbox>
+            <xmin>131.42352</xmin>
+            <ymin>177.87012</ymin>
+            <xmax>191.77548</xmax>
+            <ymax>196.0282</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bench</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.060144722</difficult>
+        <bndbox>
+            <xmin>539.6004</xmin>
+            <ymin>361.80273</ymin>
+            <xmax>698.0211</xmax>
+            <ymax>487.1643</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.060058683</difficult>
+        <bndbox>
+            <xmin>632.4698</xmin>
+            <ymin>71.54518</ymin>
+            <xmax>765.3146</xmax>
+            <ymax>144.511</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.05999121</difficult>
+        <bndbox>
+            <xmin>124.09845</xmin>
+            <ymin>169.01367</ymin>
+            <xmax>214.79521</xmax>
+            <ymax>200.99873</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.058579654</difficult>
+        <bndbox>
+            <xmin>188.95682</xmin>
+            <ymin>170.20775</ymin>
+            <xmax>245.15819</xmax>
+            <ymax>193.36102</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>baseball glove</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.05827877</difficult>
+        <bndbox>
+            <xmin>400.36768</xmin>
+            <ymin>206.22879</ymin>
+            <xmax>419.58456</xmax>
+            <ymax>222.44608</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.057085305</difficult>
+        <bndbox>
+            <xmin>173.90202</xmin>
+            <ymin>156.51218</ymin>
+            <xmax>213.6286</xmax>
+            <ymax>192.24643</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>chair</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.05695337</difficult>
+        <bndbox>
+            <xmin>274.7993</xmin>
+            <ymin>342.2795</ymin>
+            <xmax>745.5772</xmax>
+            <ymax>489.12848</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>hair drier</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.056760162</difficult>
+        <bndbox>
+            <xmin>635.00995</xmin>
+            <ymin>74.39939</ymin>
+            <xmax>664.4367</xmax>
+            <ymax>117.42906</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>chair</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.05578965</difficult>
+        <bndbox>
+            <xmin>633.92224</xmin>
+            <ymin>73.90004</ymin>
+            <xmax>670.25464</xmax>
+            <ymax>161.50096</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>cell phone</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.055266798</difficult>
+        <bndbox>
+            <xmin>400.1477</xmin>
+            <ymin>206.17186</ymin>
+            <xmax>419.5548</xmax>
+            <ymax>222.85956</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>chair</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.055246234</difficult>
+        <bndbox>
+            <xmin>555.5391</xmin>
+            <ymin>360.35297</ymin>
+            <xmax>702.83966</xmax>
+            <ymax>490.5525</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.05472994</difficult>
+        <bndbox>
+            <xmin>634.0008</xmin>
+            <ymin>28.600067</ymin>
+            <xmax>766.4308</xmax>
+            <ymax>178.59746</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>handbag</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.054621518</difficult>
+        <bndbox>
+            <xmin>634.3404</xmin>
+            <ymin>74.65839</ymin>
+            <xmax>665.9053</xmax>
+            <ymax>142.46149</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>truck</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.054047942</difficult>
+        <bndbox>
+            <xmin>110.88892</xmin>
+            <ymin>160.07893</ymin>
+            <xmax>130.52931</xmax>
+            <ymax>188.26204</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.053257823</difficult>
+        <bndbox>
+            <xmin>194.17822</xmin>
+            <ymin>126.34707</ymin>
+            <xmax>243.54843</xmax>
+            <ymax>192.56349</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>chair</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.052791953</difficult>
+        <bndbox>
+            <xmin>659.81903</xmin>
+            <ymin>60.588898</ymin>
+            <xmax>685.41534</xmax>
+            <ymax>97.816635</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.05267921</difficult>
+        <bndbox>
+            <xmin>110.92209</xmin>
+            <ymin>160.08914</ymin>
+            <xmax>130.52132</xmax>
+            <ymax>185.9902</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>skateboard</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.05252585</difficult>
+        <bndbox>
+            <xmin>635.22766</xmin>
+            <ymin>74.59905</ymin>
+            <xmax>662.99</xmax>
+            <ymax>125.697365</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.051738083</difficult>
+        <bndbox>
+            <xmin>217.68683</xmin>
+            <ymin>157.46721</ymin>
+            <xmax>263.10477</xmax>
+            <ymax>190.02866</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bench</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.051559925</difficult>
+        <bndbox>
+            <xmin>299.6221</xmin>
+            <ymin>178.89268</ymin>
+            <xmax>554.11975</xmax>
+            <ymax>392.84216</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>skateboard</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.050839692</difficult>
+        <bndbox>
+            <xmin>108.21127</xmin>
+            <ymin>348.5468</ymin>
+            <xmax>633.918</xmax>
+            <ymax>489.6863</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>remote</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.05063659</difficult>
+        <bndbox>
+            <xmin>400.17053</xmin>
+            <ymin>206.38295</ymin>
+            <xmax>419.85052</xmax>
+            <ymax>223.17783</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>chair</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.0505659</difficult>
+        <bndbox>
+            <xmin>547.08655</xmin>
+            <ymin>334.96207</ymin>
+            <xmax>800.115</xmax>
+            <ymax>489.49414</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.05009657</difficult>
+        <bndbox>
+            <xmin>598.5861</xmin>
+            <ymin>160.75587</ymin>
+            <xmax>800.115</xmax>
+            <ymax>489.46017</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.050058246</difficult>
+        <bndbox>
+            <xmin>155.00096</xmin>
+            <ymin>174.56177</ymin>
+            <xmax>191.77881</xmax>
+            <ymax>192.92168</ymax>
+        </bndbox>
+    </object>
+</annotation>

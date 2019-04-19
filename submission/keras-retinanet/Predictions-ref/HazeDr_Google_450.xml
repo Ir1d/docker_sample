@@ -1,0 +1,114 @@
+<annotation>
+    <folder>keras-retinanet</folder>
+    <filename>HazeDr_Google_450.png</filename>
+    <path>/ssd2/yeyuan/dehaze/docker/keras-retinanet/HazeDr_Google_450.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>0</width>
+        <height>0</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.8374227</difficult>
+        <bndbox>
+            <xmin>430.3011</xmin>
+            <ymin>591.6365</ymin>
+            <xmax>595.36884</xmax>
+            <ymax>731.31024</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>truck</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.22987497</difficult>
+        <bndbox>
+            <xmin>430.61707</xmin>
+            <ymin>590.50726</ymin>
+            <xmax>596.3194</xmax>
+            <ymax>729.5159</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.062221497</difficult>
+        <bndbox>
+            <xmin>429.3305</xmin>
+            <ymin>586.879</ymin>
+            <xmax>590.4789</xmax>
+            <ymax>731.3338</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>chair</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.06015387</difficult>
+        <bndbox>
+            <xmin>429.47412</xmin>
+            <ymin>589.6408</ymin>
+            <xmax>595.52814</xmax>
+            <ymax>730.62494</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>motorcycle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.057529896</difficult>
+        <bndbox>
+            <xmin>429.79434</xmin>
+            <ymin>588.6502</ymin>
+            <xmax>595.7164</xmax>
+            <ymax>732.2767</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bench</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.05714479</difficult>
+        <bndbox>
+            <xmin>429.94897</xmin>
+            <ymin>590.964</ymin>
+            <xmax>595.78723</xmax>
+            <ymax>730.3794</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.05534488</difficult>
+        <bndbox>
+            <xmin>422.6823</xmin>
+            <ymin>590.92474</ymin>
+            <xmax>595.92377</xmax>
+            <ymax>732.6192</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.054537714</difficult>
+        <bndbox>
+            <xmin>430.07327</xmin>
+            <ymin>590.1408</ymin>
+            <xmax>595.3288</xmax>
+            <ymax>731.5194</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.050993502</difficult>
+        <bndbox>
+            <xmin>467.69217</xmin>
+            <ymin>615.4534</ymin>
+            <xmax>584.22363</xmax>
+            <ymax>712.8425</ymax>
+        </bndbox>
+    </object>
+</annotation>

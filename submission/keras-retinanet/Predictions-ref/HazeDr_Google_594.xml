@@ -1,0 +1,92 @@
+<annotation>
+    <folder>keras-retinanet</folder>
+    <filename>HazeDr_Google_594.png</filename>
+    <path>/ssd2/yeyuan/dehaze/docker/keras-retinanet/HazeDr_Google_594.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>0</width>
+        <height>0</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.8949455</difficult>
+        <bndbox>
+            <xmin>223.2351</xmin>
+            <ymin>340.02838</ymin>
+            <xmax>281.8302</xmax>
+            <ymax>379.92172</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>truck</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.1854234</difficult>
+        <bndbox>
+            <xmin>222.3825</xmin>
+            <ymin>339.83066</ymin>
+            <xmax>282.54102</xmax>
+            <ymax>380.1596</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.08037886</difficult>
+        <bndbox>
+            <xmin>800.41486</xmin>
+            <ymin>278.54947</ymin>
+            <xmax>851.1366</xmax>
+            <ymax>314.626</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.07776886</difficult>
+        <bndbox>
+            <xmin>357.76288</xmin>
+            <ymin>322.5975</ymin>
+            <xmax>846.93567</xmax>
+            <ymax>467.9274</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>airplane</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.06716257</difficult>
+        <bndbox>
+            <xmin>315.2588</xmin>
+            <ymin>340.7291</ymin>
+            <xmax>834.1869</xmax>
+            <ymax>473.96735</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.05652511</difficult>
+        <bndbox>
+            <xmin>801.8325</xmin>
+            <ymin>287.18402</ymin>
+            <xmax>832.7264</xmax>
+            <ymax>314.12146</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.052962482</difficult>
+        <bndbox>
+            <xmin>675.4013</xmin>
+            <ymin>320.0108</ymin>
+            <xmax>691.17523</xmax>
+            <ymax>334.9882</ymax>
+        </bndbox>
+    </object>
+</annotation>

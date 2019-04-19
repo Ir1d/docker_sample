@@ -1,0 +1,158 @@
+<annotation>
+    <folder>keras-retinanet</folder>
+    <filename>HazeDr_Google_719.png</filename>
+    <path>/ssd2/yeyuan/dehaze/docker/keras-retinanet/HazeDr_Google_719.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>0</width>
+        <height>0</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.9956135</difficult>
+        <bndbox>
+            <xmin>371.7163</xmin>
+            <ymin>297.54053</ymin>
+            <xmax>489.42047</xmax>
+            <ymax>489.96603</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>baseball glove</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.2716146</difficult>
+        <bndbox>
+            <xmin>469.04388</xmin>
+            <ymin>411.94748</ymin>
+            <xmax>492.4059</xmax>
+            <ymax>441.43073</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.14811257</difficult>
+        <bndbox>
+            <xmin>790.7347</xmin>
+            <ymin>295.8409</ymin>
+            <xmax>845.297</xmax>
+            <ymax>314.34094</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>baseball glove</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.12948212</difficult>
+        <bndbox>
+            <xmin>389.74478</xmin>
+            <ymin>345.00095</ymin>
+            <xmax>406.53894</xmax>
+            <ymax>368.0723</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>frisbee</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.094478965</difficult>
+        <bndbox>
+            <xmin>440.23712</xmin>
+            <ymin>347.59302</ymin>
+            <xmax>463.20178</xmax>
+            <ymax>364.16675</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.09416148</difficult>
+        <bndbox>
+            <xmin>698.1105</xmin>
+            <ymin>301.78903</ymin>
+            <xmax>742.0984</xmax>
+            <ymax>316.319</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>baseball glove</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.0870589</difficult>
+        <bndbox>
+            <xmin>439.74307</xmin>
+            <ymin>347.1889</ymin>
+            <xmax>463.7182</xmax>
+            <ymax>364.29947</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.0668149</difficult>
+        <bndbox>
+            <xmin>736.45654</xmin>
+            <ymin>291.6176</ymin>
+            <xmax>845.3663</xmax>
+            <ymax>319.87466</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.055944532</difficult>
+        <bndbox>
+            <xmin>234.27611</xmin>
+            <ymin>148.68684</ymin>
+            <xmax>272.43628</xmax>
+            <ymax>277.88132</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.054772824</difficult>
+        <bndbox>
+            <xmin>678.87573</xmin>
+            <ymin>294.8174</ymin>
+            <xmax>744.2325</xmax>
+            <ymax>316.74854</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>baseball glove</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.053293586</difficult>
+        <bndbox>
+            <xmin>391.0807</xmin>
+            <ymin>331.34344</ymin>
+            <xmax>408.85666</xmax>
+            <ymax>366.68353</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.05175543</difficult>
+        <bndbox>
+            <xmin>782.6859</xmin>
+            <ymin>300.3795</ymin>
+            <xmax>845.44604</xmax>
+            <ymax>322.55887</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>boat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.051099658</difficult>
+        <bndbox>
+            <xmin>739.912</xmin>
+            <ymin>299.80597</ymin>
+            <xmax>805.61365</xmax>
+            <ymax>319.56854</ymax>
+        </bndbox>
+    </object>
+</annotation>

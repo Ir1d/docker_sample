@@ -1,0 +1,48 @@
+<annotation>
+    <folder>keras-retinanet</folder>
+    <filename>HazeDr_Google_402.png</filename>
+    <path>/ssd2/yeyuan/dehaze/docker/keras-retinanet/HazeDr_Google_402.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>0</width>
+        <height>0</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.86142844</difficult>
+        <bndbox>
+            <xmin>580.9429</xmin>
+            <ymin>410.6555</ymin>
+            <xmax>644.6519</xmax>
+            <ymax>445.9075</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>truck</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.08466324</difficult>
+        <bndbox>
+            <xmin>581.8091</xmin>
+            <ymin>410.90866</ymin>
+            <xmax>644.39246</xmax>
+            <ymax>445.441</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.052112997</difficult>
+        <bndbox>
+            <xmin>767.6913</xmin>
+            <ymin>0.0</ymin>
+            <xmax>952.3182</xmax>
+            <ymax>609.4523</ymax>
+        </bndbox>
+    </object>
+</annotation>
