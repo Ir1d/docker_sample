@@ -12,8 +12,13 @@ WORKDIR /DSFD
 
 # RUN conda env create -n dsfd -f environment.yml && conda activate dsfd
 
-RUN apt-get update && apt-get install -y libglib2.0-0 libsm6 libxext6 libxrender-dev libfontconfig1
+RUN apt-get update && apt-get install -y libglib2.0-0 libsm6 libxext6 libxrender-dev libfontconfig1 && apt-get clean \
+  && rm -rf \
+    /tmp/hsperfdata* \
+    /var/*/apt/*/partial \
+    /var/lib/apt/lists/* \
+    /var/log/apt/term*
 
-RUN pip install -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
 ENTRYPOINT ["python", "args.py"]
