@@ -24,7 +24,7 @@ scikit-image==0.14.1
 scipy==1.1.0
 six==1.11.0
 toolz==0.9.0
-torch==0.4.1.post2
+pytorch==0.4.1.post2
 torchvision==0.2.1
 tqdm==4.26.0
 
