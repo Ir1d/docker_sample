@@ -8,6 +8,7 @@ ADD ./ /keras-retinanet/
 
 WORKDIR /keras-retinanet
 
-RUN pip install -r requirements.txt && cd keras-retinanet
+RUN apt-get update && apt-get install -y libglib2.0-0 libsm6 libxext6 libxrender-dev libfontconfig1 && pip install -r requirements.txt
+RUN pip install pycocotools==2.0 && cd keras-retinanet
 
 ENTRYPOINT ["python", "demo.py"]

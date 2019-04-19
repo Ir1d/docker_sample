@@ -10,6 +10,10 @@ WORKDIR /DSFD
 
 # RUN ls >> /tmp/foo.txt
 
+# RUN conda env create -n dsfd -f environment.yml && conda activate dsfd
+
+RUN apt-get update && apt-get install -y libglib2.0-0 libsm6 libxext6 libxrender-dev libfontconfig1
+
 RUN pip install -r requirements.txt
 
 ENTRYPOINT ["python", "args.py"]
