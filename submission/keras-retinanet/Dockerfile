@@ -4,7 +4,7 @@ LABEL maintainer="Ir1d <sirius.caffrey@gmail.com>"
 ENV DEBIAN_FRONTEND=noninteractive
 
 
-ADD ./* keras-retinanet/
+ADD ./ /keras-retinanet/
 
 WORKDIR /keras-retinanet
 

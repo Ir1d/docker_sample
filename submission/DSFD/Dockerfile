@@ -4,9 +4,11 @@ LABEL maintainer="Ir1d <sirius.caffrey@gmail.com>"
 ENV DEBIAN_FRONTEND=noninteractive
 
 
-ADD ./* DSFD/
+ADD ./ /DSFD/
 
 WORKDIR /DSFD
+
+# RUN ls >> /tmp/foo.txt
 
 RUN pip install -r requirements.txt
 
