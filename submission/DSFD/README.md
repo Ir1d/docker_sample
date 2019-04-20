@@ -4,6 +4,8 @@ Docker sample of DSFD for UG^{2+} Track 2
 
 https://github.com/Ir1d/docker_sample/tree/master/submission/DSFD
 
+https://hub.docker.com/r/scaffrey/dsfd_sample
+
 ## Usage
 
 ### SUB-CHALLENGE 2.2
