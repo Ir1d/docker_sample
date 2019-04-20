@@ -1,71 +1,19 @@
-## DSFD: Dual Shot Face Detector ##
-[A PyTorch Implementation of Dual Shot Face Detector](https://arxiv.org/abs/1810.10220?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29)
+# DSFD
 
-### Description
-I use basenet [vgg](https://pan.baidu.com/s/1Q-YqoxJyqvln6KTcIck1tQ) to train DSFD,the model can be downloaded in [DSFD](https://pan.baidu.com/s/17cpDHEwYVxWmOIPqUy5zCQ).the AP in WIDER FACE as following:  
+Docker sample of keras-retinanet for UG^{2+} Track 2
 
-| Easy MAP | Medium MAP	|  hard MAP |
-| ---------|------------| --------- |
-|	0.946  |    0.937   |  0.880    | 
- 
-the AP in AFW,PASCAL,FDDB as following:
+https://github.com/Ir1d/docker_sample/tree/master/submission/DSFD
 
-| 	AFW     |   PASCAL	|   FDDB   |
-| --------- |-----------| ---------|
-|	99.89   |    99.11  |  0.983   |
- 
-I'm using resnet50/resnet101 to train DSFD,the result will be published later on 
-### Requirement
-* pytorch 0.3 
-* opencv 
-* numpy 
-* easydict
+## Usage
 
-### Prepare data 
-1. download WIDER face dataset
-2. modify data/config.py 
-3. ``` python prepare_wider_data.py```
+### SUB-CHALLENGE 2.2
 
-
-### Train 
-``` 
-python train.py --batch_size 4 
-		--model vgg\resnet50\resnet101 
-		--lr 5e-4
-``` 
-
-### Evalution
-according to yourself dataset path,modify data/config.py 
-1. Evaluate on AFW.
-```
-python tools/afw_test.py
-```
-2. Evaluate on FDDB 
-```
-python tools/fddb_test.py
-```
-3. Evaluate on PASCAL  face 
-``` 
-python tools/pascal_test.py
-```
-4. test on WIDER FACE 
-```
-python tools/wider_test.py
-```
-### Demo 
-you can test yourself image
-```
-python demo.py
+```python
+python args.py
 ```
 
-### Result
-1. demo
-<div align="center">
-<img src="https://github.com/yxlijun/DSFD.pytorch/blob/master/tmp/0_Parade_marchingband_1_488.jpg" height="300px" alt="demo" >
-<img src="https://github.com/yxlijun/DSFD.pytorch/blob/master/tmp/0_Parade_marchingband_1_20.jpg" height="300px" alt="demo" >
-</div>
+```bash
+time docker run --rm -it scaffrey/dsfd_sample
+```
 
-
-### References
-* [Dual Shot Face Detector](https://arxiv.org/abs/1810.10220?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29)
-* [ssd.pytorch](https://github.com/amdegroot/ssd.pytorch)
+The prediction goes to `res` folder, you can compare them to `res-ref` folder.
