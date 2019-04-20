@@ -4,6 +4,8 @@ Docker sample of keras-retinanet for UG^{2+} Track 2
 
 https://github.com/Ir1d/docker_sample/tree/master/submission/keras-retinanet
 
+https://hub.docker.com/r/scaffrey/keras-retinanet_sample
+
 ## Usage
 
 ### SUB-CHALLENGE 2.1
