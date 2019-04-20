@@ -6,7 +6,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 
 ADD ./ /keras-retinanet/
 
-WORKDIR /keras-retinanet
+WORKDIR /keras-retinanet/keras-retinanet/
 
 RUN apt-get update && apt-get install -y libglib2.0-0 libsm6 libxext6 libxrender-dev libfontconfig1 && pip install --no-cache-dir -i https://pypi.tuna.tsinghua.edu.cn/simple/ -r requirements.txt  && apt-get clean \
   && rm -rf \
@@ -14,6 +14,6 @@ RUN apt-get update && apt-get install -y libglib2.0-0 libsm6 libxext6 libxrender
     /var/*/apt/*/partial \
     /var/lib/apt/lists/* \
     /var/log/apt/term*
-RUN pip install --no-cache-dir -i https://pypi.tuna.tsinghua.edu.cn/simple/ pycocotools==2.0 && cd keras-retinanet/
+RUN pip install --no-cache-dir -i https://pypi.tuna.tsinghua.edu.cn/simple/ pycocotools==2.0
 
 ENTRYPOINT ["python"]
