@@ -37,10 +37,10 @@ parser.add_argument('--thresh',
                     default=0.4, type=float,
                     help='Final confidence threshold')
 parser.add_argument('--data_dir',
-                    type=str, default='./imgs',
+                    type=str, default='/images',
                     help='directory to load data')
 parser.add_argument('--res_dir',
-                    type=str, default='./res',
+                    type=str, default='/predictions',
                     help='directory to save res')
 args = parser.parse_args()
 

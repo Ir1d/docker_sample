@@ -8,6 +8,8 @@ https://hub.docker.com/r/scaffrey/dsfd_sample
 
 ## Usage
 
+**submission images are required to read input from `/images` and save results to `/predictions`**
+
 ### SUB-CHALLENGE 2.2
 
 ```python
@@ -18,4 +20,4 @@ python args.py
 time docker run --rm -it scaffrey/dsfd_sample
 ```
 
-The prediction goes to `res` folder, you can compare them to `res-ref` folder.
+The prediction goes to `/predictions` folder, you can compare them to `/predictions-ref` folder.
