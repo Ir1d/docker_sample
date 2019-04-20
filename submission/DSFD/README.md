@@ -1,6 +1,6 @@
 # DSFD
 
-Docker sample of keras-retinanet for UG^{2+} Track 2
+Docker sample of DSFD for UG^{2+} Track 2
 
 https://github.com/Ir1d/docker_sample/tree/master/submission/DSFD
 
