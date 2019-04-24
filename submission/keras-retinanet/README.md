@@ -24,9 +24,7 @@ The prediction goes to `/predictions` folder, you can compare them to `/predicti
 
 ### SUB-CHALLENGE 2.3
 
-**we are using `/images3` and `/predictions3` as an example in case of conflict**
-
-**please note that submissions in SUB-CHALLENGE 2.3 are also requireed to read from `/images` and save to `/predictions`**
+**please note that submissions in SUB-CHALLENGE 2.3 are requireed to read from `/images3` and save to `/predictions3`**
 
 ```python
 python demo3.py
