@@ -1,1 +1,1 @@
-python args.py
+python args.py --data_dir $1 --res_dir $2
