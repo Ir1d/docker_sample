@@ -1,0 +1,23 @@
+<annotation verified="no">
+	<folder>haze_detection</folder>
+	<filename>HazeDr_Google_813.png</filename>
+	<size>
+		<width>947</width>
+		<height>581</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<inferred>0</inferred>
+		<bndbox>
+			<xmin>751</xmin>
+			<ymin>362</ymin>
+			<xmax>870</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>

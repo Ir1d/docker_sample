@@ -1,4 +1,6 @@
-FROM pytorch/pytorch:1.0.1-cuda10.0-cudnn7-runtime
+FROM ufoym/deepo:pytorch-py36-cu90
+# FROM pytorch/pytorch:0.4.1-cuda9-cudnn7-runtime
+# FROM pytorch/pytorch:1.0.1-cuda10.0-cudnn7-runtime
 
 LABEL maintainer="Ir1d <sirius.caffrey@gmail.com>"
 ENV DEBIAN_FRONTEND=noninteractive
