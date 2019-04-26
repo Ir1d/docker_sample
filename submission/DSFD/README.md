@@ -8,16 +8,9 @@ https://hub.docker.com/r/scaffrey/dsfd_sample
 
 ## Usage
 
-**submission images are required to read input from `/images` and save results to `/predictions`**
-
-### SUB-CHALLENGE 2.2
-
-```python
-python args.py
-```
+**submission images are required to have a /run.sh and read input from the first argument and save results to the second one**
 
 ```bash
-time docker run --rm -it scaffrey/dsfd_sample
+docker pull scaffrey/dsfd_sample:leinao
+nvidia-docker run -ti -v $user_output_path2:/predictions/ -v $user_input_path2:/images/ --entrypoint /bin/bash scaffrey/dsfd_sample:leinao /run.sh /images /predictions
 ```
-
-The prediction goes to `/predictions` folder, you can compare them to `/predictions-ref` folder.
